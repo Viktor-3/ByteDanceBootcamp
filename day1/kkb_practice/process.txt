@@ -1,0 +1,3 @@
+1. Add ("bin": {"kkb": "./bin/kkb.js"}) after "main"
+2. Open terminal and execute command "npm i commander download-git-repo ora handlebars figlet clear chalk open -s" 
+3. Execute command "npm link"
